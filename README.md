@@ -11,9 +11,9 @@ Usage
 python explain.py -i dog.jpg -m vgg16_weights.h5 -o out.jpg
 ```
 
-The input image:
+### Input image:
 ![Image of dog playing guitar](dog.jpg)
-The output image:
+### Output image:
 ![Image of dog playing guitar, only showing dog](out.jpg)
 
 
